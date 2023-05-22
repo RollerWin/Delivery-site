@@ -1,0 +1,17 @@
+﻿@model IEnumerable<FoodDeliverySite.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="product-list">
+@foreach (var item in Model)
+{
+    <form asp-action="ShopCart" class="product-item">
+            <div class="product-image"><img src="~/css/image/@Html.DisplayFor(modelItem => item.ImagePath)" width ="300" height="300"></div>
+            <div class="product-name">@Html.DisplayFor(modelItem => item.Name)</div>
+            <div class="product-price">Цена: @Html.DisplayFor(modelItem => item.Price)</div>
+                <input type="submit" value="Купить" class="header-button">
+            <div class="product-count">Количество: @Html.DisplayFor(modelItem => item.Count)шт.</div>
+    </form>
+}
+</div>

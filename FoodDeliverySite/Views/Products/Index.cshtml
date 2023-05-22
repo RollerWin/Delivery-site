@@ -1,0 +1,52 @@
+﻿@model IEnumerable<FoodDeliverySite.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="product-list-table">
+    <p>
+        <a asp-action="Create" class="admin-h1 nav-item">Добавить вкуснятины</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Count)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Count)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="nav-item table-btn">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="nav-item table-btn">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="nav-item table-btn">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</div>
