@@ -1,0 +1,22 @@
+﻿@page
+@model ConfirmEmailModel
+@{
+    ViewData["Title"] = "Успеншо!";
+}
+
+
+
+<div class="row justify-content-center">
+    <div class="col-5 mt-5 product-list-table">
+        <div class="card-body">
+            <div class="row justify-content-center">
+                <div class="col-10 my-4">
+                    <h1 align="center">@ViewData["Title"]</h1>
+                    <p align="center"><partial name="_StatusMessage" model="Model.StatusMessage" /></p>
+                    <p align="center"><a class="header-button" asp-area="Identity" asp-page="/Account/Login">Вперёд за вкусняшками!</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

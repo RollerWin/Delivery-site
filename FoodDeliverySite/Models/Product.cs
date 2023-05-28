@@ -25,7 +25,6 @@ namespace FoodDeliverySite.Models
         [Range(1, 100000, ErrorMessage = "Цена  должна быть больше 1 и меньше 100000")]
         public int Count { get; set; }
 
-        //----------------------------------------
         public string ImagePath { get; set; }
     }
 }

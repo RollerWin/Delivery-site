@@ -1,295 +1,311 @@
 {
   "Files": [
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodDeliverySite.bundle.scp.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodDeliverySite.bundle.scp.css",
       "PackagePath": "staticwebassets\\FoodDeliverySite.bundle.scp.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\1.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\1.jpg",
       "PackagePath": "staticwebassets\\css\\1.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\2.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\2.jpg",
       "PackagePath": "staticwebassets\\css\\2.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\3.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\3.jpg",
       "PackagePath": "staticwebassets\\css\\3.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\bg.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\bg.jpg",
       "PackagePath": "staticwebassets\\css\\bg.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\black-bg.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\black-bg.jpg",
       "PackagePath": "staticwebassets\\css\\black-bg.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\burger.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\burger.jpg",
       "PackagePath": "staticwebassets\\css\\burger.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\card.png",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\card.png",
       "PackagePath": "staticwebassets\\css\\card.png"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\cart.png",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\cart.png",
       "PackagePath": "staticwebassets\\css\\cart.png"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\image\\pepperoni.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\image\\Combo.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Combo.jpg"
+    },
+    {
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\image\\Philadelphia.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Philadelphia.jpg"
+    },
+    {
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\image\\fourcheese.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\fourcheese.jpg"
+    },
+    {
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\image\\pepperoni.jpg",
       "PackagePath": "staticwebassets\\css\\image\\pepperoni.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\logo.png",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\image\\Шаурма.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Шаурма.jpg"
+    },
+    {
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\logo.png",
       "PackagePath": "staticwebassets\\css\\logo.png"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\phone.png",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\phone.png",
       "PackagePath": "staticwebassets\\css\\phone.png"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\pizza.jpg",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\pizza.jpg",
       "PackagePath": "staticwebassets\\css\\pizza.jpg"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\css\\site.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\favicon.ico",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\js\\site.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

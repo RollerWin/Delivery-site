@@ -3,15 +3,38 @@
 @{
     ViewData["Title"] = "Index";
 }
+
+@{
+    Layout = "_Layout";
+}
+
+<style>
+    body {
+        background-color: #000; 
+    }
+</style>
+
 <div class="product-list">
+
+
 @foreach (var item in Model)
 {
-    <form asp-action="ShopCart" class="product-item">
+        <form asp-action="UserIndex" class="product-item">
             <div class="product-image"><img src="~/css/image/@Html.DisplayFor(modelItem => item.ImagePath)" width ="300" height="300"></div>
             <div class="product-name">@Html.DisplayFor(modelItem => item.Name)</div>
             <div class="product-price">Цена: @Html.DisplayFor(modelItem => item.Price)</div>
+            <input type="hidden" name="productId" value="@item.Id" />
                 <input type="submit" value="Купить" class="header-button">
             <div class="product-count">Количество: @Html.DisplayFor(modelItem => item.Count)шт.</div>
-    </form>
+        </form>
 }
+
 </div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

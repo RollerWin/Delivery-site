@@ -11055,19 +11055,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maryy\\.nuget\\packages\\": {}
+    "C:\\Users\\Ринат\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\FoodDeliverySite.csproj",
+      "projectUniqueName": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\FoodDeliverySite.csproj",
       "projectName": "FoodDeliverySite",
-      "projectPath": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\FoodDeliverySite.csproj",
-      "packagesPath": "C:\\Users\\maryy\\.nuget\\packages\\",
-      "outputPath": "D:\\Хранилище для работы\\Web\\Хайр\\FoodDeliverySite\\FoodDeliverySite\\obj\\",
+      "projectPath": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\FoodDeliverySite.csproj",
+      "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
+      "outputPath": "D:\\Soft\\учёба\\Web\\Хайруллин\\DeliveryFood-site — копия\\FoodDeliverySite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maryy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11075,6 +11075,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11139,7 +11140,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

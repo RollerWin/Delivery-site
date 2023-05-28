@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Пасхалка!";
+    int visitorsCount = Convert.ToInt32(Context.Session.GetInt32("VisitorsCount"));
+}
+
+<div class="about">
+    <p>Добро пожаловать на секретную страницу, @ViewData["name"]!</p>
+</div>
+
+<div class="about">
+    Количество посещений этой страницы за недавнее время: @visitorsCount
+</div>

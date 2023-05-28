@@ -15,6 +15,7 @@ main {
 }
 
 
+
 .header-line {
     padding-top: 50px;
     display: flex;
@@ -35,6 +36,9 @@ main {
         color: #d81d1d;
     }
 
+.confirm {
+    color:#000;
+}
 
 .cart {
     position: relative;
@@ -415,8 +419,10 @@ main {
     padding: 15px;
 }
 
-.auth-header {
-
+.userindex-panel {
+    background-color:#000;
+    border-radius:15px;
+    padding: 15px;
 }
 
 /*.cards-holder {

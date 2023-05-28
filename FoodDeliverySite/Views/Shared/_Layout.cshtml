@@ -8,8 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />  
-    <!--<link rel="stylesheet" href="~/DeliverySite.styles.css" asp-append-version="true" />-->
+     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 
     <!---Гугл-шрифты------------------------------------------>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,44 +21,37 @@
 </head>
 <body>
     <main>
-    <!--    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DeliverySite</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>-->
-
-
         <div class="container">
             <div class="header-line">
                 <div class="header-logo">
-                        <img src="~/css/logo.png" alt="">
+                    <img src="~/css/logo.png" alt="">
                 </div>
 
                 <div class="nav">
                     <a class="nav-item" asp-area="" asp-controller="Home" asp-action="Index">ГЛАВНАЯ</a>
                     @if (User.IsInRole("admin"))
                     {
-                        <a class="nav-item" asp-area="" asp-controller="Products" asp-action="Index">Редактировать</a>
+                        <a class="nav-item" asp-area="" asp-controller="Products" asp-action="Index">РЕДАКТИРОВАТЬ</a>
                     }
                     else
                     {
                         <a class="nav-item" asp-area="" asp-controller="Products" asp-action="UserIndex">МЕНЮ</a>
                     }
                     <a class="nav-item" asp-area="" asp-controller="Home" asp-action="About">О НАС</a>
+
+                    @{
+                        var request = Context.Request;
+                        if (request.Cookies.ContainsKey("name"))
+                        {
+                            <a class="nav-item" asp-area="" asp-controller="Home" asp-action="EasterEgg">Пасхалка</a>
+
+                            if (request.Cookies["name"] == "admin")
+                            {
+                                <a class="nav-item" asp-area="" asp-controller="Home" asp-action="AddSession"></a>
+                            }
+                        }
+                    }
+
                 </div>
 
                 <div class="cart">
@@ -75,8 +67,6 @@
                 @RenderBody()
             </div>
         </div>
-
-
     </main>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

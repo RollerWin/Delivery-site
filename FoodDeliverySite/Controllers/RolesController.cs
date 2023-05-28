@@ -17,7 +17,7 @@ namespace FoodDeliverySite.Controllers
             _userManager = userManager;
         }
 
-        // GET: RolesController
+//------Отображение страницы со всеми ролями----------------------------------------------------------------------------
         public ActionResult Index()
         {
             return View(_roleManager.Roles.ToList());
@@ -29,13 +29,13 @@ namespace FoodDeliverySite.Controllers
             return View();
         }
 
-        // GET: RolesController/Create
+//------Отображение страницы с созданием роли---------------------------------------------------------------------------
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: RolesController/Create
+//------Обработка создания новой роли-----------------------------------------------------------------------------------
         [HttpPost]
         public async Task<IActionResult> Create(string name)
         {
@@ -57,13 +57,13 @@ namespace FoodDeliverySite.Controllers
             return View(name);
         }
 
-        // GET: RolesController/Edit/5
+//------Отображение страницы для изменения роли-------------------------------------------------------------------------
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: RolesController/Edit/5
+//------Обработка изменения роли----------------------------------------------------------------------------------------
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -78,13 +78,13 @@ namespace FoodDeliverySite.Controllers
             }
         }
 
-        // GET: RolesController/Delete/5
+//------Отображение страницы с удалением роли---------------------------------------------------------------------------
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: RolesController/Delete/5
+//------Обработка и полное удаление роли--------------------------------------------------------------------------------
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)

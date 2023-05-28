@@ -1,5 +1,74 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IEnumerable<FoodDeliverySite.Models.ShopCart>
+@inject UserManager<IdentityUser> UserManager
+
 @{
+    var currentUser = await UserManager.GetUserAsync(User);
 }
+
+
+@{
+    ViewData["Title"] = "Корзина";
+}
+
+<div class="product-list-table">
+    <h1>Корзина</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Count)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Where(p => p.UserId == currentUser.Id))
+            {
+                <form asp-action="Buy">
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Category)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Count)
+                        </td>
+                        <td>
+                            <input type="hidden" name="shopcartId" value="@item.Id" />
+                            <input type="submit" value="Заказать!" class="header-button">
+                        </td>
+                    </tr>
+                </form>
+            }
+
+            @{
+                decimal sum = 0;
+            }
+            @foreach (var item in Model.Where(p => p.UserId == currentUser.Id))
+            {
+                sum += item.Price;
+            }
+            <form asp-action="BuyAll">
+                <div>
+                    <input type="hidden" name="userId" value="@currentUser.Id" />
+                    <input type="submit" value="Купить всё за @sum" class="header-button">
+                </div>
+            </form>
+        </tbody>
+    </table>
+</div>
